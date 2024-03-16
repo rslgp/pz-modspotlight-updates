@@ -1,1 +1,2 @@
+ModList = {
 firetrail=teste33
